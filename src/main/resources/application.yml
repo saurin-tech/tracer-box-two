@@ -1,0 +1,3 @@
+server:
+  port: 8998
+restURL: "http://tracer-box-three.default:8999/last"
